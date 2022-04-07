@@ -1,0 +1,7 @@
+spring:
+  datasourse:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url:
+    username: root
+    password: Wmy230404
+
